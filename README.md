@@ -1,9 +1,6 @@
 
 # Grapevine Leaf Image Analysis using PCA, Clustering, and CNN
 
-**Author:** Muskan Dhingra  
-**Course:** Applied Machine Learning  
-**University:** Indiana University Bloomington  
 
 ---
 
